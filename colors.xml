@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="green">#00FF00</color> <!-- Change to your desired shade -->
+    <color name="yellow">#FFFF00</color> <!-- Change to your desired shade -->
+    <color name="gray">#808080</color> <!-- Change to your desired shade -->
+</resources>
